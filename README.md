@@ -39,7 +39,7 @@ My background is in economics and energy policy and the experience consulting.
 
 #### Bizness
 - :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
-- :email: ipenywis@gmail.com
+- :email: i.korobov@yahoo.com
 
 
 #### Profile Visits 
