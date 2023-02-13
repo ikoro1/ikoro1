@@ -1,4 +1,4 @@
-## Hi there, I am Igor <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+## Hi there, I am Igor <img src="https://github.com/ikoro1/ikoro1/blob/main/Resume/photo%20Korobov.jpg" width="28px" height="28px" alt="hi">
 
 I'm Igor Korobov a Python Backend Developer just graduated from the Digital 
 Career Institute https://digitalcareerinstitute.org/.
@@ -12,12 +12,12 @@ My background is in economics and energy policy and the experience consulting.
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently at @DCI
+- 🔭 I’m currently looking a new adventure in IT.
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with Outstanding Video ideas.
-- 📫 How to reach me: islempenywis@gmail.com.
-- 😄 Pronouns: CoderOne, Ipenywis, islempenywis.
-- ⚡ Fun fact: I play games and go to the GYM very often.
+- 📫 How to reach me: just write at WhatsApp at +4917631504582.
+- :languages: English, German, Russian.
+- ⚡ Fun fact: I play beach volleyball and go to GYM every day.
 
 #### Top Technologies
 
@@ -53,7 +53,8 @@ My background is in economics and energy policy and the experience consulting.
 
 <br >
 
-I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why CoderOne Youtube Channel exists!
+I love learning. This ist my next  height to take!
+
 
 #### What is CoderOne?
 
