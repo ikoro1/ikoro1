@@ -7,7 +7,7 @@ My background is in economics and energy policy and the experience consulting.
 
 
 :mailbox: Reach me out!
-(https://img.shields.io/badge/-Igor-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-korobov/)
+[![Linkedin Badge](https://img.shields.io/badge/-Igor-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-korobov/)
 [![Mail Badge](https://img.shields.io/badge/-igor-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:i.korobov@yahoo.com)
 
 <!-- TODO: Add last video link -->
