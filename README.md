@@ -13,7 +13,7 @@ My background is in economics and energy policy and the experience consulting.
 
 <!-- TODO: Add last video link -->
 
-- 🔭 Looking a new adventure in the IT world.
+- 🔭 Looking for adventures in the IT world.
 - :computer: Python, SQL&PostGreSQL, AI, Data Science.
 - 📫 How to reach me: just write at WhatsApp at +4917631504582.
 - 🤔 English, German, Russian.
