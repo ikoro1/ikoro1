@@ -37,6 +37,13 @@ My background is in economics and energy policy and the experience consulting.
 <img title="Windows" alt="Windows" src="ICONS/windows.png" width="40" height="30"/>
 <img title="linux" alt="linux" src="ICONS/linux-tux.svg" width="40" height="35" style="vertical-align:down; margin:4px"/>
 
+#### My Projects so far
+
+- Survey-App for job-seekers, where they not only find job postings, but also 
+shared recommendations and evaluations from other companies’ employees: 
+  [Project](https://github.com/Final-Project-Truck/Final_Project/tree/Develop_Main)
+
+
 #### Business
 - :paperclip: [My Resume/CV](https://github.com/ikoro1/ikoro1/blob/main/Resume/CV%20Igor%20Korobov%202023%20en.pdf)
 - :email: i.korobov@yahoo.com
