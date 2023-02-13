@@ -15,7 +15,7 @@ My background is in economics and energy policy and the experience consulting.
 
 - 🔭 Looking for adventures in the IT world.
 - :computer: Python, SQL&PostGreSQL, AI, Data Science.
-- 📫 How to reach me: just write at WhatsApp at +4917631504582.
+- 📫 How to reach me: just write me at WhatsApp at +4917631504582.
 - 🤔 English, German, Russian.
 - ⚡ Fun fact: I play beach volleyball and go to GYM every day.
 
