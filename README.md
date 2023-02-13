@@ -21,7 +21,7 @@ My background is in economics and energy policy and the experience consulting.
 
 #### Top Technologies
 
-<!-- TODO: Make technologies links takes you to repositories --><a href="https://www.python.org/" title="Python"><img src="ICONS/python.png"/></a>
+<a href="https://www.python.org/" title="Python"><img src="ICONS/python.png"/></a>
 <a href="https://github.com/" title="GitHub"><img src="ICONS/github.png" /></a>
 <a href="https://www.mysql.com/" title="MySQL"><img src="ICONS/mysql.png"/></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="ICONS/vscode.png" /></a>
@@ -38,7 +38,9 @@ My background is in economics and energy policy and the experience consulting.
 <img title="linux" alt="linux" src="ICONS/linux-tux.svg" width="40" height="35" style="vertical-align:down; margin:4px"/>
 
 #### Bizness
-- :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
+- :paperclip: [My Resume/CV] <a href title="Resume"><img src="ICONS/CV Igor 
+  Korobov 2023 en.pdf"/></a>
+- (https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
 - :email: i.korobov@yahoo.com
 
 
