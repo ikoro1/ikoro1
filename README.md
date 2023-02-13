@@ -38,7 +38,7 @@ My background is in economics and energy policy and the experience consulting.
 <img title="linux" alt="linux" src="ICONS/linux-tux.svg" width="40" height="35" style="vertical-align:down; margin:4px"/>
 
 #### Bizness
-- :paperclip: [My Resume/CV] <a href title="Resume"><img src="ICONS/CV Igor 
+- :paperclip: [My Resume/CV] <a href= title="Resume"><img src="ICONS/CV Igor 
   Korobov 2023 en.pdf"/></a>
 - (https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
 - :email: i.korobov@yahoo.com
