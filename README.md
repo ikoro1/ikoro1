@@ -37,14 +37,15 @@ My background is in economics and energy policy and the experience consulting.
 <img title="Windows" alt="Windows" src="ICONS/windows.png" width="40" height="30"/>
 <img title="linux" alt="linux" src="ICONS/linux-tux.svg" width="40" height="35" style="vertical-align:down; margin:4px"/>
 
-#### Bizness
+#### Business
 - :paperclip: [My Resume/CV](https://github.com/ikoro1/ikoro1/blob/main/Resume/CV%20Igor%20Korobov%202023%20en.pdf)
 - :email: i.korobov@yahoo.com
 
+[//]: # ()
+[//]: # (#### Profile Visits )
 
-#### Profile Visits 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ipenywis.ipenywis)
+[//]: # ()
+[//]: # (![visitors]&#40;https://visitor-badge.glitch.me/badge?page_id=ipenywis.ipenywis&#41;)
 
 <details>
 <summary>
