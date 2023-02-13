@@ -13,11 +13,10 @@ My background is in economics and energy policy and the experience consulting.
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently looking a new adventure in IT.
-- :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🤔 I’m looking for help with Outstanding Video ideas.
+- 🔭 Looking a new adventure in the IT world.
+- :computer: Python, SQL&PostGreSQL, AI, Data Science.
 - 📫 How to reach me: just write at WhatsApp at +4917631504582.
-- :languages: English, German, Russian.
+- 🤔 English, German, Russian.
 - ⚡ Fun fact: I play beach volleyball and go to GYM every day.
 
 #### Top Technologies
@@ -57,11 +56,13 @@ My background is in economics and energy policy and the experience consulting.
 I love learning. This ist my next  height to take!
 
 
-#### What is CoderOne?
+[//]: # (#### What is CoderOne?)
 
-CoderOne is a youtube channel for learning Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world.
+[//]: # ()
+[//]: # (CoderOne is a youtube channel for learning Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world.)
 
-#### Coding Stats
+[//]: # ()
+[//]: # (#### Coding Stats)
 
 <!--START_SECTION:waka-->
 ```text
@@ -73,14 +74,17 @@ YAML         2 mins          ░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-#### Github Stats
+[//]: # (#### Github Stats)
 
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=ipenywis&count_private=true&theme=tokyonight&hide=contribs,prs)
+[//]: # (![Ipenywis's github stats]&#40;https://github-readme-stats.vercel.app/api?username=ipenywis&count_private=true&theme=tokyonight&hide=contribs,prs&#41;)
 
-</details>
+[//]: # (</details>)
 
+[//]: # ()
+[//]: # ([reactplaylist]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd)
 
-[reactplaylist]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd
-[vscodetutorial]: https://www.youtube.com/watch?v=Bkie2ai8qeE&t=8s
-[htmltutorial]: https://www.youtube.com/watch?v=VK6MXVxOsws&t=27s
-[javascripttutorial]: https://www.youtube.com/watch?v=D-LHKvmX37E
+[//]: # ([vscodetutorial]: https://www.youtube.com/watch?v=Bkie2ai8qeE&t=8s)
+
+[//]: # ([htmltutorial]: https://www.youtube.com/watch?v=VK6MXVxOsws&t=27s)
+
+[//]: # ([javascripttutorial]: https://www.youtube.com/watch?v=D-LHKvmX37E)
