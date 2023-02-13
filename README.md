@@ -7,16 +7,8 @@ My background is in economics and energy policy and the experience consulting.
 
 
 :mailbox: Reach me out!
-
-![Facebook Badge](https://www.facebook.com/igor.korobov.5) [![Mail Badge]
-(https://img.shields.io/badge/-CoderOne-e74c3c?
-style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.
-com/coderone) [![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?
-style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.
-linkedin.com/in/igor-korobov/) [![Mail Badge](https://img.shields.
-io/badge/-@islempenywis-e84393?
-style=flat&labelColor=e84393&logo=instagram&logoColor=white)]
-(https://instagram.com/islempenywis) [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:i.korobov@yahoo.com)
+(https://img.shields.io/badge/-Igor-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-korobov/)
+[![Mail Badge](https://img.shields.io/badge/-igor-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:i.korobov@yahoo.com)
 
 <!-- TODO: Add last video link -->
 
