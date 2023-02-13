@@ -39,8 +39,7 @@ My background is in economics and energy policy and the experience consulting.
 
 #### My Projects so far
 
-- Survey-App for job-seekers, where they not only find job postings, but also 
-shared recommendations and evaluations from other companies’ employees: 
+- Survey-App for job-seekers, where they not only find job postings, but also shared recommendations and evaluations from other companies’ employees: 
   [Project](https://github.com/Final-Project-Truck/Final_Project/tree/Develop_Main)
 
 
