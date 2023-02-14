@@ -53,6 +53,11 @@ My background is in economics and energy policy and the experience consulting.
 [//]: # ()
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ikoro1.ikoro1);
 
+
+#### Github Stats 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <details>
 <summary>
   More stuff about me
