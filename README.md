@@ -48,10 +48,10 @@ My background is in economics and energy policy and the experience consulting.
 - :email: i.korobov@yahoo.com
 
 [//]: # ()
-[//]: # (#### Profile Visits )
+#### Profile Visits 
 
 [//]: # ()
-[//]: # (![visitors]&#40;https://visitor-badge.glitch.me/badge?page_id=ipenywis.ipenywis&#41;)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ikoro1.ikoro1);
 
 <details>
 <summary>
