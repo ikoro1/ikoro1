@@ -55,8 +55,7 @@ My background is in economics and energy policy and the experience consulting.
 
 
 #### Github Stats 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?
-username=ikoro1)](https://github.com/anuraghazra/github-readme-stats)
+[![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikoro1)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <details>
