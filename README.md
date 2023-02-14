@@ -25,8 +25,7 @@ My background is in economics and energy policy and the experience consulting.
 <a href="https://github.com/" title="GitHub"><img src="ICONS/github.png" /></a>
 <a href="https://www.mysql.com/" title="MySQL"><img src="ICONS/mysql.png"/></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="ICONS/vscode.png" /></a>
-<a href="https://www.django-rest-framework.org/" target="_blank"><img src="https://external-content.duckduckgo.com/ip3/www.django-rest-framework.org.ico" alt="spring" width="40" height="40"/> </a> 
-<img title="c++" alt="c++" src="ICONS/cpluss.png" width="40" height="30"/>
+<a href="https://www.django-rest-framework.org/" target="_blank"><img src="https://external-content.duckduckgo.com/ip3/www.django-rest-framework.org.ico" alt="spring" width="40" height="40"/> </a>
 <img title="docker" alt="docker" src="ICONS/docker.png" width="40" height="30"/>
 <img title="Google Cloud" alt="Google Cloud" src="ICONS/gcloud.png" width="60" height="30"/>
 <img title="heroku" alt="heroku" src="ICONS/heroku.png" width="40" height="30"/>
