@@ -17,7 +17,7 @@ My background is in economics and energy policy and the experience consulting.
 - :computer: Python, SQL&PostGreSQL, AI, Data Science.
 - 📫 How to reach me: just write me at WhatsApp +4917631504582.
 - :tongue: English, [German](https://github.com/ikoro1/ikoro1/blob/main/Resume/C1.4%20Certificate%20Korobov.pdf), Russian.
-- ⚡ Fun fact: I play beach volleyball and go to gym every day.
+- ⚡ Fun fact: I play beach volleyball and go to the gym every day.
 
 #### Top Technologies
 
