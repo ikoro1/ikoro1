@@ -51,7 +51,7 @@ My background is in economics and energy policy and the experience consulting.
 #### Profile Visits 
 
 [//]: # ()
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ikoro1.ikoro1);
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ikoro1.ikoro1)
 
 
 #### Github Stats 
