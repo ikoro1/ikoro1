@@ -6,8 +6,8 @@ Developer](https://github.com/ikoro1/ikoro1/blob/main/Resume/Zertifikat_Korobov%
 confirmed
 by [the Digital Career Institute](https://digitalcareerinstitute.org/).
 
-my knowledge of economics and energy policy should not prevent me from
-developing in the direction of startups, IT consulting or working with
+My knowledge of economics and energy policy should not prevent me from
+developing in the direction of startups, IT consulting as well as working with
 databases and artificial intelligence.
 
 :mailbox: Reach me out!
