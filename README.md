@@ -8,7 +8,7 @@ developing in the direction of databases and artificial intelligence. Ready to
 take a new height at startups and IT consulting as well.
 
 :mailbox: Reach me at:
-[![Linkedin Badge](https://img.shields.io/badge/-Igor-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ikoro/)
+[![Linkedin Badge](https://img.shields.io/badge/-Igor-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://github.com/ikoro1/)
 [![Mail Badge](https://img.shields.io/badge/-igor-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:i.korobov@yahoo.com)
 
 <!-- TODO: Add last video link -->
