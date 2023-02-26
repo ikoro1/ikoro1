@@ -3,12 +3,11 @@
 After years in academia and consulting, my curiosity has finally led me to IT.
 Now I am officially a [Python Backend
 Developer](https://github.com/ikoro1/ikoro1/blob/main/Resume/Zertifikat_Korobov%2C%20Igor_FbW%20P%2022-E01_preliminary.pdf)
-confirmed
-by [the Digital Career Institute](https://digitalcareerinstitute.org/).
+confirmed by [the Digital Career Institute](https://digitalcareerinstitute.org/).
 
-My knowledge of economics and energy policy should not prevent me from
-developing in the direction of startups, IT consulting as well as working with
-databases and artificial intelligence.
+My knowledge of economics and energy policy should not prevent me from further 
+developing in the direction databases and artificial intelligence. Ready to 
+take a new height at of startups and IT consulting as well as.
 
 :mailbox: Reach me out!
 [![Linkedin Badge](https://img.shields.io/badge/-Igor-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](www.linkedin.com/in/ikoro/)
@@ -73,8 +72,7 @@ databases and artificial intelligence.
 
 <br >
 
-I love learning. This ist my next height to take!
-
+Never bored, never depressed-:)
 
 [//]: # (#### What is CoderOne?)
 
