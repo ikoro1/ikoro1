@@ -1,7 +1,6 @@
 ## Hi there, I am Igor <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-My curiosity finally led me to IT. Now I am officially a Python Backend
-Developer [Python Backend Developer](https://github.com/ikoro1/ikoro1/blob/main/Resume/Zertifikat_Korobov%2C%20Igor_FbW%20P%2022-E01_preliminary.pdf)
+My curiosity finally led me to IT. Now I am officially a [Python Backend Developer](https://github.com/ikoro1/ikoro1/blob/main/Resume/Zertifikat_Korobov%2C%20Igor_FbW%20P%2022-E01_preliminary.pdf)
 confirmed by the Digital Career Institute https://digitalcareerinstitute.org/.
 
 My background is in economics and energy policy and the experience consulting.
