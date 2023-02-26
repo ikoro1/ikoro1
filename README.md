@@ -15,7 +15,7 @@ take a new height at startups and IT consulting as well.
 
 - 🔭 Looking for adventures in the IT world.
 - :computer: Python, SQL&PostGreSQL, AI, Data Science.
-- 📫 How to reach me: just write me at WhatsApp +4917631504582.
+- 📫 How to reach me at WhatsApp +4917631504582.
 - :tongue:
   English, [German](https://github.com/ikoro1/ikoro1/blob/main/Resume/C1.4%20Certificate%20Korobov.pdf),
   Russian.
