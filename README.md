@@ -1,13 +1,10 @@
 ## Hi there, I am Igor <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
+My curiosity finally led me to IT. Now I am officially a Python Backend
+Developer [Python Backend Developer](https://github.com/ikoro1/ikoro1/blob/main/Resume/Zertifikat_Korobov%2C%20Igor_FbW%20P%2022-E01_preliminary.pdf)
+confirmed by the Digital Career Institute https://digitalcareerinstitute.org/.
 
-My curiosity finally led me to IT. Now I am officially a Python Backend 
-Developer [Python Backend Developer](https://github.
-com/ikoro1/ikoro1/blob/main/Resume/Zertifikat_Korobov%2C%20Igor_FbW%20P%2022
--E01_preliminary.pdf) confirmed the Digital Career Institute https://digitalcareerinstitute.org/.
-
-My background is in economics and energy policy and the experience consulting. 
-
+My background is in economics and energy policy and the experience consulting.
 
 :mailbox: Reach me out!
 [![Linkedin Badge](https://img.shields.io/badge/-Igor-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-korobov/)
@@ -18,7 +15,9 @@ My background is in economics and energy policy and the experience consulting.
 - 🔭 Looking for adventures in the IT world.
 - :computer: Python, SQL&PostGreSQL, AI, Data Science.
 - 📫 How to reach me: just write me at WhatsApp +4917631504582.
-- :tongue: English, [German](https://github.com/ikoro1/ikoro1/blob/main/Resume/C1.4%20Certificate%20Korobov.pdf), Russian.
+- :tongue:
+  English, [German](https://github.com/ikoro1/ikoro1/blob/main/Resume/C1.4%20Certificate%20Korobov.pdf),
+  Russian.
 - ⚡ Fun fact: I play beach volleyball and go to the gym every day.
 
 #### Top Technologies
@@ -41,22 +40,25 @@ My background is in economics and energy policy and the experience consulting.
 
 #### My Projects so far
 
-- Survey-App for job-seekers, where they not only find job postings, but also shared recommendations and evaluations from other companies’ employees: 
+- Survey-App for job-seekers, where they not only find job postings, but also
+  shared recommendations and evaluations from other companies’ employees:
   [Project](https://github.com/Final-Project-Truck/Final_Project/tree/Develop_Main)
 
-
 #### Business
-- :paperclip: [My Resume/CV](https://github.com/ikoro1/ikoro1/blob/main/Resume/CV%20Igor%20Korobov%202023%20en.pdf)
+
+- :
+  paperclip: [My Resume/CV](https://github.com/ikoro1/ikoro1/blob/main/Resume/CV%20Igor%20Korobov%202023%20en.pdf)
 - :email: i.korobov@yahoo.com
 
 [//]: # ()
-#### Profile Visits 
+
+#### Profile Visits
 
 [//]: # ()
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ikoro1.ikoro1)
 
+#### Github Stats
 
-#### Github Stats 
 [![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikoro1&hide=contribs,prs&theme=tokyonight)]
 
 
@@ -67,21 +69,25 @@ My background is in economics and energy policy and the experience consulting.
 
 <br >
 
-I love learning. This ist my next  height to take!
+I love learning. This ist my next height to take!
 
 
 [//]: # (#### What is CoderOne?)
 
 [//]: # ()
+
 [//]: # (CoderOne is a youtube channel for learning Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world.)
 
 [//]: # ()
+
 [//]: # (#### Coding Stats)
 
 <!--START_SECTION:waka-->
+
 ```text
 
 ```
+
 <!--END_SECTION:waka-->
 
 [//]: # (#### Github Stats)
@@ -91,6 +97,7 @@ I love learning. This ist my next  height to take!
 [//]: # (</details>)
 
 [//]: # ()
+
 [//]: # ([reactplaylist]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd)
 
 [//]: # ([vscodetutorial]: https://www.youtube.com/watch?v=Bkie2ai8qeE&t=8s)
