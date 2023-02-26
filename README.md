@@ -5,9 +5,9 @@ Now I am officially a [Python Backend
 Developer](https://github.com/ikoro1/ikoro1/blob/main/Resume/Zertifikat_Korobov%2C%20Igor_FbW%20P%2022-E01_preliminary.pdf)
 confirmed by [the Digital Career Institute](https://digitalcareerinstitute.org/). My knowledge of economics and energy policy should not prevent me from further
 developing in the direction of databases and artificial intelligence. Ready to
-take a new height at of startups and IT consulting as well.
+take a new height at startups and IT consulting as well.
 
-:mailbox: Reach me out!
+:mailbox: Reach me at:
 [![Linkedin Badge](https://img.shields.io/badge/-Igor-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](www.linkedin.com/in/ikoro/)
 [![Mail Badge](https://img.shields.io/badge/-igor-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:i.korobov@yahoo.com)
 
