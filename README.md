@@ -43,8 +43,7 @@ take a new height at startups and IT consulting as well.
 
 - Survey-App for job-seekers, where they not only find job postings, but also
   shared recommendations and evaluations from other companies’ employees:
-  [Projects](https://github.com/Final-Project-Truck/Final_Project/tree
-  /Develop_Main)
+  [Projects](https://github.com/Final-Project-Truck/Final_Project/tree/Develop_Main)
 
 #### Business
 
