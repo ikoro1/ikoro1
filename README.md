@@ -43,10 +43,11 @@ take a new height at startups and IT consulting as well.
 
 - Survey-App for job-seekers, where they not only find job postings, but also
   shared recommendations and evaluations from other companies’ employees:
-  [Projects](https://github.com/Final-Project-Truck/Final_Project/tree/Develop_Main)
+  [Survey-App](https://github.com/Final-Project-Truck/Final_Project/tree
+  /Develop_Main)
 - A weather project, which shows and stores displayed data (city, 
   temperature, description)
-  [Projects](https://github.com/ikoro1/Weather)
+  [Weather-App](https://github.com/ikoro1/Weather)
 
 #### Business
 
