@@ -51,7 +51,7 @@ take a new height at startups and IT consulting as well.
 #### Business
 
 - :
-  paperclip: [My Resume/CV](https://github.com/ikoro1/ikoro1/blob/main/Resume/CV%20Igor%20Korobov%202023%20en.pdf)
+  paperclip: [My Resume/CV](https://github.com/ikoro1/ikoro1/blob/main/Resume/CV%20Korobov%202023%20CN.pdf)
 - :email: i.korobov@yahoo.com
 
 [//]: # ()
